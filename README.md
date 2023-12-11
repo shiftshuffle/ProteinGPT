@@ -25,8 +25,8 @@ Sample Output:
 
 
 ![alt sample chat](https://github.com/shiftshuffle/ProteinGPT/blob/main/sample_images/sample_chat.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt uniprot](https://github.com/shiftshuffle/ProteinGPT/blob/main/sample_images/argp_uniprot.png?raw=true)
+![alt mobidb](https://github.com/shiftshuffle/ProteinGPT/blob/main/sample_images/argp_mobidb.png?raw=true)
 
 
 # Links
