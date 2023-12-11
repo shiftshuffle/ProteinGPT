@@ -24,6 +24,11 @@ Sample Output:
 'A recent study identified a novel interaction between the [AKT1^1](https://www.uniprot.org/uniprotkb/Q96B36/entry) [AKT1^2](https://mobidb.bio.unipd.it/Q96B36) gene and the [mTOR^1](https://www.uniprot.org/uniprotkb/P42345/entry) [mTOR^2](https://mobidb.bio.unipd.it/P42345) protein'
 
 
+![alt sample chat](https://github.com/shiftshuffle/ProteinGPT/blob/main/sample_images/sample_chat.png?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 # Links
 
  * [Example literature about proteins](https://www.bmglabtech.com/en/blog/misfolded-proteins-and-neurodegenerative-diseases/)
