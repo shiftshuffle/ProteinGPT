@@ -6,17 +6,16 @@ ProteinGPT Analizes Biomedical text in form of chat and proceeds to identify NER
 
 Uniprot being a freely accessible database of protein sequence and functional information, many entries being derived from genome sequencing projects. It contains a large amount of information about the biological function of proteins derived from the research literature.
 
-Here we can see it in action
+Here we can see it in action:
 
 
-Sample Input: Here , it is shown that the product of the argP gene , the ArgP protein , is a modulator molecule that regulates the expression of the arginine transport system
-Sample Output: Here , it is shown that the product of the [argP^1](https://www.uniprot.org/uniprotkb/P0A8S1/entry) [argP^2](https://mobidb.bio.unipd.it/P0A8S1) gene , the [ArgP^1](https://www.uniprot.org/uniprotkb/P0A8S1/entry) [ArgP^2](https://mobidb.bio.unipd.it/P0A8S1) protein , is a modulator molecule that regulates the expression of the arginine transport system
+Sample Input: ```'Here , it is shown that the product of the argP gene , the ArgP protein , is a modulator molecule that regulates the expression of the arginine transport system'```
+Sample Output: ```'Here , it is shown that the product of the [argP^1](https://www.uniprot.org/uniprotkb/P0A8S1/entry) [argP^2](https://mobidb.bio.unipd.it/P0A8S1) gene , the [ArgP^1](https://www.uniprot.org/uniprotkb/P0A8S1/entry) [ArgP^2](https://mobidb.bio.unipd.it/P0A8S1) protein , is a modulator molecule that regulates the expression of the arginine transport system'```
 
 
 
-Sample Input: A recent study identified a novel interaction between the AKT1 gene and the mTOR protein
-Sample Output: A recent study identified a novel interaction between the [AKT1^1](https://www.uniprot.org/uniprotkb/Q96B36/entry) [AKT1^2](https://mobidb.bio.unipd.it/Q96B36) gene and the [mTOR^1](https://www.uniprot.org/uniprotkb/P42345/entry) [mTOR^2](https://mobidb.bio.unipd.it/P42345) protein
-
+Sample Input: ```'A recent study identified a novel interaction between the AKT1 gene and the mTOR protein'```
+Sample Output: ```'A recent study identified a novel interaction between the [AKT1^1](https://www.uniprot.org/uniprotkb/Q96B36/entry) [AKT1^2](https://mobidb.bio.unipd.it/Q96B36) gene and the [mTOR^1](https://www.uniprot.org/uniprotkb/P42345/entry) [mTOR^2](https://mobidb.bio.unipd.it/P42345) protein'```
 
 
 # Links
