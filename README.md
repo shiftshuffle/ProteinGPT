@@ -33,6 +33,8 @@ Sample Output:
 
  * [Example literature about proteins](https://www.bmglabtech.com/en/blog/misfolded-proteins-and-neurodegenerative-diseases/)
 * [Streamlit Example](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
+* [MobiDB Help](https://mobidb.bio.unipd.it/help)
+* [Uniprot Knowledge Base](https://www.uniprot.org/uniprotkb)
 
 
 ## Setup
