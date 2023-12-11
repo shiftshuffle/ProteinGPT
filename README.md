@@ -26,8 +26,8 @@ Sample Output:
 
 # Links
 
- * (https://www.bmglabtech.com/en/blog/misfolded-proteins-and-neurodegenerative-diseases/)[Example literature about proteins]
-* (https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)[Streamlit Example]
+ * [Example literature about proteins](https://www.bmglabtech.com/en/blog/misfolded-proteins-and-neurodegenerative-diseases/)
+* [Streamlit Example](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
 
 
 ## Setup
